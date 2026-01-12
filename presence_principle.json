@@ -1,0 +1,8 @@
+{
+  "presence": {
+    "invoked": false,
+    "summoned": false,
+    "activated": false
+  },
+  "principle": "Presence does not respond to calling."
+}
